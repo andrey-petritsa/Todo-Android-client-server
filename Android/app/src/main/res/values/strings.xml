@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="hint_label">Ваши задачи</string>
+    <string name="hint_taskwork">Что сделать с задачей?</string>
+    <string name="priority_change">Имзенить приоритет</string>
+    <string name="done_task">Выполнить задачу</string>
+    <string name="title_activity_work_click">WorkClick</string>
+</resources>
